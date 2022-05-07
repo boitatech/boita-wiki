@@ -14,7 +14,7 @@ Observe a seguinte organização dos arquivos nesse repositório:
 └── SUMMARY.md
 ```
 
-É possível observar que são criadas pastas para cada tópico e que os arquivos.md de cada post estão inseridos dentro dessas pastas. Esse formato deverá ser sempre replicado para os futuros tópicos.
+É possível observar que são criadas pastas para cada tópico, e que os arquivos.md de cada post estão inseridos dentro dessas pastas. Esse formato deverá ser sempre replicado para os futuros tópicos.
 > Caso não tenha uma pasta referente ao seu tópico, sinta-se à vontade para criá-la.
 
 ---
