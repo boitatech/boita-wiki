@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Welcome Boitatech WIKI!](README.md)
-* [Mobile](mobile/README.md)
-  * [Bypass Two-Factor Authentication](mobile/bypass-two-factor-authentication.md)
+* [Application Security](application-security/README.md)
+  * [Security Champions](application-security/security-champions.md)
 * [Contribuição](contribuicao.md)
