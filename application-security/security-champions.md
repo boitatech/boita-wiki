@@ -1,10 +1,6 @@
 # Security Champions - Tradução v1
 [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
 
-[Security Champions: Você precisa pensar sobre isso](https://blog.convisoappsec.com/security-champions-voce-precisa-pensar-sobre-isso/)
-
-[Programa Security Champions: o que é e como fazemos na Zup](https://www.zup.com.br/blog/programa-security-champions)
-
 ## 1. Identificação dos times
 
 O principal objetivo desta etapa é mapear os problemas das equipes com as quais você trabalhará, é extremamente importante anotar e mantê-la em local público conhecido e acessível a todos. Conversas individuais com proprietários de produtos e líderes de engenharia seriam um bom começo para essa etapa do processo.
