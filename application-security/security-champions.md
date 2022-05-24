@@ -1,4 +1,6 @@
-# Security Champions - Tradução v1
+# Security Champions
+> tradução v1
+
 [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
 
 ## 1. Identificação dos times
